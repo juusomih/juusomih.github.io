@@ -8,8 +8,9 @@ layout: default
 
 ## Find me on
 
-[LinkedIn](https://www.linkedin.com/in/juuso-miikka-heikkil%C3%A4-3b0335138/), [GitHub](https://github.com/juusomih/)
+[LinkedIn](https://www.linkedin.com/in/juuso-miikka-heikkil%C3%A4-3b0335138/), [GitHub](https://github.com/juusomih/),
 
+[CV](https://www.overleaf.com/read/bjbzvmggysbm)
 ## Contact
 
 email: juuso-miikka.heikkila@helsinki.fi. 
@@ -29,4 +30,3 @@ I have build a balancing robot using java api in lego mindstorm (unfortunately i
 Work in progress: [A character summary tool](https://github.com/juusomih/python_jotto) using solr and indexed wikipedia articles 
 
 ## Misc. 
-
